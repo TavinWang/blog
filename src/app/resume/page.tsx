@@ -47,7 +47,7 @@ export default function Page() {
             <Dot className='cursor-not-allowed bg-green-500' />
           </span>
           <span className='text-center text-gray-400'>
-            zhangyu@MacBook-Air:~
+            Wang Jiatao@MacBook-Air:~
           </span>
           <span className='text-end text-gray-500'>⌥⌘1</span>
         </header>
@@ -57,8 +57,8 @@ export default function Page() {
             <TypedText>whoami</TypedText>
             <TypedContent>
               <p>
-                Hi, I&apos;m <strong>ZHANG YU</strong>, in Chinese my name is{' '}
-                <strong>张宇</strong>.
+                Hi, I&apos;m <strong>Wang Jiatao</strong>, in Chinese my name is{' '}
+                <strong>王嘉涛</strong>.
               </p>
               <p>
                 I am a senior front-end engineer who have been involving in
