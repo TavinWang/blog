@@ -38,12 +38,12 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  applicationName: 'zhangyu.dev',
+  applicationName: 'wjt.im',
   authors: {
-    name: 'zhangyu1818',
-    url: 'https://github.com/zhangyu1818',
+    name: 'WangJiatao',
+    url: 'https://github.com/TavinWang',
   },
-  creator: 'zhangyu1818',
+  creator: 'TavinWang',
   description:
     'Dive into front-end development with a focus on React, cutting-edge frameworks, JavaScript, TypeScript, Swift, Animation and more',
   generator: 'Next.js',
@@ -56,10 +56,10 @@ export const metadata: Metadata = {
     'Animation',
     'Swift',
   ],
-  publisher: 'zhangyu1818',
+  publisher: 'TavinWang',
   title: {
-    absolute: 'zhangyu.dev',
-    template: '%s | zhangyu.dev',
+    absolute: 'wjt.im',
+    template: '%s | wjt.im',
   },
   verification: {
     google: 'ULSANpODFw1TULe1QTOUFT8z8QXPVIA1MRTMQL7PAbw',
