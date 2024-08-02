@@ -79,7 +79,7 @@ export default function Page() {
             <TypedText afterDelay={700}>Educational experience</TypedText>
             <TypedContent>
               <p>
-                <i>2021.09-</i> <strong>Central South University</strong>
+                <i>2021.09-</i> + '    ' + <strong>Central South University</strong>
               </p>
               <p>
                 Additionally, I have developed and maintained lots of
