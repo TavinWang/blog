@@ -116,36 +116,29 @@ export default function Page() {
             <TypedText>Competition</TypedText>
             <TypedContent>
               <p>
-                <strong>Asia and Pacific Mathematical Contest in Modeling</strong>————The first prize
+                Asia and Pacific Mathematical Contest in Modeling————The first prize
               </p>
               <p>
-                <strong>National College Student Business Negotiation Competition</strong>————The secone prize
+                National College Student Business Negotiation Competition————The secone prize
               </p>
               <p>
-                <strong>National English Competition for College Students</strong>————The third prize
+                National English Competition for College Students————The third prize
               </p>
             </TypedContent>
             <TypedText>Skills</TypedText>
             <TypedContent>
               <p>
-                I excel in <code>JavaScript</code> and <code>TypeScript</code>,
-                proficiently utilizing <code>CSS</code> to create visually
-                appealing and responsive web pages.
+                I excel in <code>Python</code> and <code>Matlab</code>,
+                proficiently utilizing <code>Sql</code> to perform various operations on data.
               </p>
               <p>
-                I have a deep understanding of <code>React</code> and have
-                explored other popular frameworks as well. Currently, my work
-                primarily involves using <code>Next.js</code>, and I have
-                extensive experience with <code>App Router</code>.
+                I have a deep understanding of <strong>DS</strong> and have
+                explored much algorithm. Currently, my work
+                primarily involves applying algorithms to the business to discover insights.
               </p>
               <p>
-                In addition to front-end development, I am also familiar with
-                backend development using tools such as <code>Prisma</code>,{' '}
-                <code>NestJS</code>, and <code>GraphQL</code>.
-              </p>
-              <p>
-                Furthermore, I have experience in mobile App development using
-                <code>React Native</code> and <code>SwiftUI</code>.
+                In addition to BA, I am also familiar with
+                <code>Tableau</code> and <code>Excel</code>.
               </p>
             </TypedContent>
             <TypedText>Contact</TypedText>
