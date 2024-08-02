@@ -68,7 +68,7 @@ export default function Page() {
             <TypedText afterDelay={1000}>ls</TypedText>
             <TypedContent>
               <div className='grid grid-cols-2 gap-2 px-4 font-semibold text-sky-500'>
-                <span>Educational experience</span>
+                <span>Educational Experience</span>
                 <span>Projects</span>
                 <span>Blog-info</span>
                 <span>Competition</span>
@@ -76,7 +76,7 @@ export default function Page() {
                 <span>contact</span>
               </div>
             </TypedContent>
-            <TypedText afterDelay={700}>Educational experience</TypedText>
+            <TypedText afterDelay={700}>Educational Experience</TypedText>
             <TypedContent>
               <p>
                 <i>2021.09-</i>&nbsp;&nbsp;<strong>Central South University</strong>
@@ -86,69 +86,20 @@ export default function Page() {
                 Moreover, my major ranking is <strong>6/30</strong> with a weighted average score of <strong>91+</strong>.
               </p>
             </TypedContent>
-            <TypedText afterDelay={1000}>projects</TypedText>
+            <TypedText afterDelay={1000}>Projects</TypedText>
             <TypedContent>
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/react-markdown-toc'>
-                      react-markdown-toc
+                    <a href='https://github.com/TavinWang/Machine-Learning'>
+                      Machine-Learning
                     </a>
                   </strong>
                 </li>
-                <li>Generating a Table of Contents (TOC) from Markdown.</li>
-              </ul>
-              <ul>
-                <li>
-                  <strong>
-                    <a href='https://github.com/zhangyu1818/from-to'>
-                      from-to.js
-                    </a>
-                  </strong>
-                </li>
-                <li>Transitioning from one value to another.</li>
-              </ul>
-              <ul>
-                <li>
-                  <strong>
-                    <a href='https://github.com/zhangyu1818/react-server-only-context'>
-                      react-server-only-context
-                    </a>
-                  </strong>
-                </li>
-                <li>
-                  A straightforward alternative for using context within React
-                  Server Components.
-                </li>
-              </ul>
-              <ul>
-                <li>
-                  <strong>
-                    <a href='https://github.com/zhangyu1818/tw-styled'>
-                      tw-styled
-                    </a>
-                  </strong>
-                </li>
-                <li>
-                  Create Tailwind CSS-styled React components with ease using
-                  tw-styled.
-                </li>
-              </ul>
-              <ul>
-                <li>
-                  <strong>
-                    <a href='https://github.com/zhangyu1818/use-flip'>
-                      use-flip
-                    </a>
-                  </strong>
-                </li>
-                <li>
-                  Effortless FLIP animations with a React Hook for smoother
-                  transitions.
-                </li>
+                <li>A practical project of machine learning algorithm implementation.</li>
               </ul>
             </TypedContent>
-            <TypedText>blog-info</TypedText>
+            <TypedText>Blog-info</TypedText>
             <TypedContent>
               <p>
                 I am keen on sharing knowledge as well as writing articles and
