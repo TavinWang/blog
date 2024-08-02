@@ -79,12 +79,11 @@ export default function Page() {
             <TypedText afterDelay={700}>Educational experience</TypedText>
             <TypedContent>
               <p>
-                <i>2021.09-</i> + '    ' + <strong>Central South University</strong>
+                <i>2021.09-</i>&nbsp;&nbsp;<strong>Central South University</strong>
               </p>
               <p>
-                Additionally, I have developed and maintained lots of
-                open-source projects, which have been successfully published on
-                npm and collectively garnered nearly <i>20,000</i> downloads.
+                In my undergraduate study, my research direction was data science and business analysis.
+                Moreover, my major ranking is <strong>6/30</strong> with a weighted average score of <strong>91+</strong>.
               </p>
             </TypedContent>
             <TypedText afterDelay={1000}>projects</TypedText>
