@@ -61,33 +61,25 @@ export default function Page() {
                 <strong>王嘉涛</strong>.
               </p>
               <p>
-                I am a senior front-end engineer who have been involving in
-                front-end development since <strong>2018</strong>, focusing on
-                building aesthetically pleasing and highly interactive user
-                interfaces by <code>React</code>.
-              </p>
-              <p>
-                I have amassed substantial practical experience in the{' '}
-                <code>React</code> technology stack.
+                I am an undergraduate majoring in <strong>DS&BA</strong>, focusing on
+                machine learning and artificial intelligence algorithms.
               </p>
             </TypedContent>
             <TypedText afterDelay={1000}>ls</TypedText>
             <TypedContent>
               <div className='grid grid-cols-2 gap-2 px-4 font-semibold text-sky-500'>
-                <span>opensource</span>
-                <span>projects</span>
-                <span>blog-info</span>
-                <span>experience</span>
+                <span>Educational experience</span>
+                <span>Projects</span>
+                <span>Blog-info</span>
+                <span>Competition</span>
                 <span>skills</span>
                 <span>contact</span>
               </div>
             </TypedContent>
-            <TypedText afterDelay={700}>opensource</TypedText>
+            <TypedText afterDelay={700}>Educational experience</TypedText>
             <TypedContent>
               <p>
-                I am passionate about contributing to the open-source community,
-                having made multiple contributions to well-known projects such
-                as <code>Ant Design</code>.
+                <i>2021.09-</i> <strong>Central South University</strong>
               </p>
               <p>
                 Additionally, I have developed and maintained lots of
