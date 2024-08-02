@@ -108,26 +108,24 @@ export default function Page() {
                 <code>Sql</code>, and <code>Tableau</code>.
               </p>
               <p>
-                My articles have been read over <i>150,000</i> times.
+                My articles have been read over <i>10,000</i> times.
                 Previously, I primarily wrote in Chinese, but currently, my goal
                 is to write articles in English.
               </p>
             </TypedContent>
-            <TypedText>experience</TypedText>
+            <TypedText>Competition</TypedText>
             <TypedContent>
-              <p>Until now, I have worked for two companies only.</p>
               <p>
-                The first company focused on developing high-performance and
-                versatile dialing systems and management platforms for internal
-                enterprise use, along with various mini-programs and Apps.
+                <strong>Asia and Pacific Mathematical Contest in Modeling</strong>————The first prize
               </p>
               <p>
-                The second company specialized in creating visually appealing
-                and high-performance e-commerce platforms and Apps for
-                cross-border trade.
+                <strong>National College Student Business Negotiation Competition</strong>————The secone prize
+              </p>
+              <p>
+                <strong>National English Competition for College Students</strong>————The third prize
               </p>
             </TypedContent>
-            <TypedText>skills</TypedText>
+            <TypedText>Skills</TypedText>
             <TypedContent>
               <p>
                 I excel in <code>JavaScript</code> and <code>TypeScript</code>,
