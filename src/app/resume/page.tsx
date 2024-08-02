@@ -54,7 +54,7 @@ export default function Page() {
         <div className='min-h-60 flex-1 overflow-y-auto p-2 text-sm text-gray-200 duration-300 animate-in fade-in'>
           <p className='mb-2'>Last login: {lastBuildTime} on ttys003</p>
           <Typed>
-            <TypedText>whoami</TypedText>
+            <TypedText>Who am I</TypedText>
             <TypedContent>
               <p>
                 Hi, I&apos;m <strong>Wang Jiatao</strong>, in Chinese my name is{' '}
@@ -72,14 +72,14 @@ export default function Page() {
                 <span>Projects</span>
                 <span>Blog-info</span>
                 <span>Competition</span>
-                <span>skills</span>
-                <span>contact</span>
+                <span>Skills</span>
+                <span>Contact</span>
               </div>
             </TypedContent>
             <TypedText afterDelay={700}>Educational Experience</TypedText>
             <TypedContent>
               <p>
-                <i>2021.09-</i>&nbsp;&nbsp;<strong>Central South University</strong>
+                <i>2021.09-</i>&emsp;<strong>Central South University</strong>
               </p>
               <p>
                 In my undergraduate study, my research direction was data science and business analysis.
@@ -103,9 +103,9 @@ export default function Page() {
             <TypedContent>
               <p>
                 I am keen on sharing knowledge as well as writing articles and
-                tutorials regularly, covering <code>JavaScript</code>,
-                <code>TypeScript</code>, <code>React</code> source-code,{' '}
-                <code>CSS</code>, and animation.
+                tutorials regularly, covering <code>Python</code>,
+                <code>Matlab</code>, <code>Java</code>,
+                <code>Sql</code>, and <code>Tableau</code>.
               </p>
               <p>
                 My articles have been read over <i>150,000</i> times.
