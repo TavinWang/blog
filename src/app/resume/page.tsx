@@ -116,13 +116,13 @@ export default function Page() {
             <TypedText>Competition</TypedText>
             <TypedContent>
               <p>
-                Asia and Pacific Mathematical Contest in Modeling————The first prize
+                Asia and Pacific Mathematical Contest in Modeling———the first prize
               </p>
               <p>
-                National College Student Business Negotiation Competition————The secone prize
+                National College Student Business Negotiation Competition———the secone prize
               </p>
               <p>
-                National English Competition for College Students————The third prize
+                National English Competition for College Students———the third prize
               </p>
             </TypedContent>
             <TypedText>Skills</TypedText>
@@ -137,7 +137,7 @@ export default function Page() {
                 primarily involves applying algorithms to the business to discover insights.
               </p>
               <p>
-                In addition to BA, I am also familiar with
+                In addition to <strong>BA</strong>, I am also familiar with
                 <code>Tableau</code> and <code>Excel</code>.
               </p>
             </TypedContent>
@@ -146,16 +146,14 @@ export default function Page() {
               <div className='my-4 flex items-center'>
                 <p className='basis-1/4 text-center font-semibold'>Social</p>
                 <div className='grid flex-1 grid-cols-2 justify-items-start gap-2'>
-                  <a href='https://github.com/zhangyu1818'>Github</a>
-                  <a href='https://twitter.com/zhangyu1818'>Twitter</a>
-                  <a href='https://juejin.cn/user/4089838986339927'>掘金</a>
-                  <a href='https://dev.to/zhangyu1818'>Dev.to</a>
-                  <a href='https://medium.com/@zhangyu1818'>Medium</a>
+                  <a href='https://github.com/TavinWang'>Github</a>
+                  <a href='https://juejin.cn/user/2203888091411038'>掘金</a>
+                  <a href='https://medium.com/@tavin.wang'>Medium</a>
                 </div>
               </div>
               <div className='flex items-center'>
                 <p className='basis-1/4 text-center font-semibold'>Email</p>
-                <a href='mailto:hey@zhangyu.dev'>hey@zhangyu.dev</a>
+                <a href='mailto:wjt@163.com'>wjt@163.com</a>
               </div>
             </TypedContent>
           </Typed>
