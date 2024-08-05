@@ -2,7 +2,7 @@
 
 My personal blog.
 
-[wjt.im](wjt.im)
+[wjt.im](https://wjt.im)
 
 Using [Next.js](https://nextjs.org/) v14 App Router and React Server Components. Styling with [TailwindCSS](https://tailwindcss.com/).
 
