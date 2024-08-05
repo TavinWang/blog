@@ -12,7 +12,7 @@ Using [@discublog/api](https://github.com/discublog/api) to query GitHub reposit
 ## Write Articles
 
 1. Enable your blog repository discussions.
-2. Write a new discussion.
+2. Write a new discussion freely.
 
 ## Fork Guide
 
