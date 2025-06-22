@@ -38,7 +38,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  applicationName: 'wjt.im',
+  applicationName: 'wjttt.com',
   authors: {
     name: 'WangJiatao',
     url: 'https://github.com/TavinWang',
@@ -58,8 +58,8 @@ export const metadata: Metadata = {
   ],
   publisher: 'TavinWang',
   title: {
-    absolute: 'wjt.im',
-    template: '%s | wjt.im',
+    absolute: 'wjttt.com',
+    template: '%s | wjttt.com',
   },
   verification: {
     google: 'ULSANpODFw1TULe1QTOUFT8z8QXPVIA1MRTMQL7PAbw',
