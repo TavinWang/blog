@@ -79,11 +79,10 @@ export default function Page() {
             <TypedText afterDelay={700}>Educational Experience</TypedText>
             <TypedContent>
               <p>
-                <i>2021.09-</i>&emsp;<strong>Central South University</strong>
+                <i>2021.09-2025.06</i>&emsp;<strong>Central South University</strong>
               </p>
               <p>
                 In my undergraduate study, my research direction was data science and business analysis.
-                Moreover, my major ranking is <strong>6/30</strong> with a weighted average score of <strong>91+</strong>.
               </p>
             </TypedContent>
             <TypedText afterDelay={1000}>Projects</TypedText>
@@ -116,13 +115,10 @@ export default function Page() {
             <TypedText>Competition</TypedText>
             <TypedContent>
               <p>
-                Asia and Pacific Mathematical Contest in Modeling———the first prize
+                Asia and Pacific Mathematical Contest in Modeling———The first prize
               </p>
               <p>
-                National College Student Business Negotiation Competition———the secone prize
-              </p>
-              <p>
-                National English Competition for College Students———the third prize
+                National College Student Business Negotiation Competition———The secone prize
               </p>
             </TypedContent>
             <TypedText>Skills</TypedText>
